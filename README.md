@@ -11,10 +11,6 @@
 - ⚡ Fun fact: I has a short temper,, you might not noticed but I am
 
 ##
-<a href="https://https://www.notion.so/HOME-061d51c247f34f74b3b3d68aa270011f">![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)</a>
-<a href="https://www.instagram.com/9uccichann/">![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
-
-
 ### Skills
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -83,6 +79,10 @@
 ### Terminal
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+### Blogs
+<a href="https://https://www.notion.so/HOME-061d51c247f34f74b3b3d68aa270011f">![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)</a>
+<a href="https://www.instagram.com/9uccichann/">![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
 
 ## About Me
