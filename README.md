@@ -96,6 +96,9 @@
   + UMC 6th Front-End Part Leader
 + Awards:
   + HUFS 창업아이디어경진대회 대상
-
++ Projects:
+  + Profile
+  + Study-Flex
+  + Quit Smoke
 
 
