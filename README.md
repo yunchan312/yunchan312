@@ -80,7 +80,7 @@
 ![powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ### Blogs
-<a href="https://https://www.notion.so/HOME-061d51c247f34f74b3b3d68aa270011f">![Notion](https://flying-chokeberry-02e.notion.site/HOME-061d51c247f34f74b3b3d68aa270011f?pvs=4)</a>
+<a href="https://flying-chokeberry-02e.notion.site/HOME-061d51c247f34f74b3b3d68aa270011f?pvs=4">![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)</a>
 <a href="https://www.instagram.com/9uccichann/">![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
 
