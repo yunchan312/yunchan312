@@ -85,7 +85,7 @@
 
 
 ## About Me
-+ Profile Website: https://profile.yunchans.com
++ Profile Website: [https://profile.yunchans.com](https://portfolio-4kr.pages.dev/)
 + Education:
   > + university: Hankuk University of Foreign Lanuages
   > + major: Computer Science & Engineering
@@ -95,9 +95,13 @@
   + UMC 6th Front-End Part Leader
 + Awards:
   + HUFS 창업아이디어경진대회 대상
+  + HUFSummer Hackaton 우수상
+  + Nomad coder Contest 최우수작 선정
 + Projects:
-  + Profile
+  + Kiwi
+  + Chapl
   + Study-Flex
-  + Quit Smoke
+  + WeKick
+  + Yellowbook
 
 
