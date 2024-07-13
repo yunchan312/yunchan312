@@ -85,7 +85,7 @@
 
 
 ## About Me
-+ Profile Website: [https://profile.yunchans.com](https://portfolio-4kr.pages.dev/)
++ [Profile Website &rarr;](https://portfolio-4kr.pages.dev/)
 + Education:
   > + university: Hankuk University of Foreign Lanuages
   > + major: Computer Science & Engineering
