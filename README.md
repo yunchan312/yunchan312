@@ -1,33 +1,36 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=f6e58d&height=150&section=header&text=Welcome%20to%20yunchan's%20github&fontSize=50&animation=fadeIn" />
+# Koo Yunchann
 
-### Skills
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![styledcomponent](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![reactrouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![next](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+[![wakatime](https://wakatime.com/badge/user/7c176976-39da-4d40-9a53-0128a8cac308.svg)](https://wakatime.com/@7c176976-39da-4d40-9a53-0128a8cac308)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=phenomenal312)](https://solved.ac/profile/phenomenal312)
+
+<a href="https://flying-chokeberry-02e.notion.site/HOME-061d51c247f34f74b3b3d68aa270011f?pvs=4">[![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)</a>
+<a href="https://www.instagram.com/9uccichann/">[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)</a>
+- 🌐 I'm currently learning Computer Science, **Front-end**.
+- 💌 How to reach me : phenomenal312@naver.com
+
+## 💪Skills 
 
 
-### Database
-![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+<br/>
+<br/>
 
+## 📊 Github Stats
+  <div align="center">
+    <a href="https://github.com/bi-sz/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/?username=yunchan312&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="YunChan's GitHub stats" />
+    </a>
+  </div>
+<br/>
 
-### Blogs
-<a href="https://flying-chokeberry-02e.notion.site/HOME-061d51c247f34f74b3b3d68aa270011f?pvs=4">![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)</a>
-<a href="https://www.instagram.com/9uccichann/">![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+## 🥈 BOJ Stats
+ <div align = "center">
+  
+   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=phenomenal312)](https://solved.ac/phenomenal312)<br>
+  <img src="http://mazandi.herokuapp.com/api?handle=phenomenal312&theme=warm"/> 
+ 
+ </div>
+</details>
 
 
 ## About Me
