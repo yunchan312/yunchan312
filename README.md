@@ -10,6 +10,29 @@
 - 💌 How to reach me : phenomenal312@naver.com
 
 ## 💪Skills 
+[![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=electron)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=styledcomponents)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=yarn)](https://skillicons.dev)
+<br />
+[![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=threejs)](https://skillicons.dev)
+<br />
+[![My Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cloudflare)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+
 
 
 <br/>
