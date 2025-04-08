@@ -1,6 +1,5 @@
 # Koo Yunchann
 
-[![wakatime](https://wakatime.com/badge/user/7c176976-39da-4d40-9a53-0128a8cac308.svg)](https://wakatime.com/@7c176976-39da-4d40-9a53-0128a8cac308)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=phenomenal312)](https://solved.ac/profile/phenomenal312)
 
