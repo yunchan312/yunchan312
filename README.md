@@ -72,7 +72,7 @@
   + SPARCS AI Startup Hackathon 2024 본선
 + Projects:
   + Kiwi
-  + Chapl
+  + Chepl
   + Study-Flex
   + WeKick
   + Yellowbook
