@@ -7,6 +7,7 @@
 <a href="https://www.instagram.com/9uccichann/">[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)</a>
 - 🌐 I'm currently learning Computer Science, **Front-end**.
 - 💌 How to reach me : phenomenal312@naver.com
+- Blog : https://velog.io/@yunchan312/posts
 
 ## 💪Skills 
 [![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
